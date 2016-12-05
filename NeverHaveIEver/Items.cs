@@ -41,8 +41,6 @@ namespace NeverHaveIEver
 
 				"had a bad fall because I was walking and texting.",
 
-				"been arrested.",
-
 				"pressured someone into getting a tattoo or piercing.",
 
 				"gone surfing.",
@@ -164,7 +162,12 @@ namespace NeverHaveIEver
 				"lied to get a job",
 				"Woken up drunk",
 				"lied about my birthday just to get a free dessert",
-				"gone a week without showering"
+				"gone a week without showering",
+				"had a crush on a friends significant other", 
+				"Brushed teeth in the shower",
+				"mistaken someone for being pregnant",
+				"threw up in public",
+				"clogged a friends toilet"
 		};
 	}
 }
