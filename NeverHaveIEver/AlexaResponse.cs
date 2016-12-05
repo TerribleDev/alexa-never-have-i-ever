@@ -25,7 +25,7 @@ namespace NeverHaveIEver
 
 		public override bool OnRequestValidation(SpeechletRequestValidationResult result, DateTime referenceTimeUtc, SpeechletRequestEnvelope requestEnvelope)
 		{
-			if(requestEnvelope?.Session?.Application?.Id?.Equals("amzn1.ask.skill.77ffa04a-699d-452d-b8d5-4c128079a1b2") == false)
+			if(requestEnvelope?.Session?.Application?.Id?.Equals("amzn1.ask.skill.052afe5d-6417-4e89-b6aa-b4ee3c0bb75a") == false)
 			{
 				return false;
 			}
